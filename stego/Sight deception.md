@@ -1,3 +1,5 @@
+# Sight deception
+
 After testing this pyhton code, it does indeed transform a string input to a whitespace codeprinting it.
 
 After checking some other things, we realized th spaces and tabs of the code included in this file seemed to form another whitespace code, hidden in the python one!
