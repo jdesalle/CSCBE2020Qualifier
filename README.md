@@ -6,10 +6,15 @@ This Respository will be used to host divers write up and scrit for some of the 
 ## DNS Belgium
 
 ## Crypto
-
+- coding puzzle
 ## Reverse
 
 ## Forensic
+- tea
+- polyglot.doc
+- string.exe
+- zippy zip zip
+- Roll the dice
 
 ## web
 
