@@ -6,20 +6,21 @@ This Respository will be used to host divers write up and scrit for some of the 
 ## DNS Belgium
 
 ## Crypto
-- coding puzzle
+- [coding puzzle](crypto/coding%20puzzle.md)
 ## Reverse
 
 ## Forensic
-- tea
-- polyglot.doc
-- string.exe
-- zippy zip zip
-- Roll the dice
+- [tea](forensic/tea.md)
+- [polyglot.doc](forensic/polyglot.doc.md)
+- [string.exe](forensic/string.exe.md)
+- [zippy zip zip](forensic/zippy%20zip%20zip.md)
+- [Roll the dice](forensic/roll%20the%20dice.md)
 
 ## web
+- [Succulent security](network/succulent.md)
 
 ## stego
 
-- The Blind
-- Sight Deception 
-- Give it a Whirl
+- [The Blind](stego/The%20Blind.md)
+- [Sight Deception](stego/Sight%20deception.md)
+- [Give it a Whirl](stego/give%20it%20a%20whirl.md)
