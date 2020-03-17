@@ -4,6 +4,7 @@ This Respository will be used to host divers write up and scrit for some of the 
 
 
 ## DNS Belgium
+- [Murder in DNS](DNS/murder_dns.md)
 
 ## Crypto
 - [coding puzzle](crypto/coding%20puzzle.md)
