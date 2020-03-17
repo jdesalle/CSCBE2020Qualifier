@@ -1,6 +1,6 @@
 # Succulent security
 
-The first think which came in mind was to do a fuzzing to see if something was hidden. To do this **dirb**.
+The first think which came in mind was to do a fuzzing to see if something was hidden. To do this **dirb** was used.
 
 Once we've launched dirb whit the common.txt dictionnary, it found a **.git/HEAD** file. We can thus conclude that there is a git folders on the site.
 
