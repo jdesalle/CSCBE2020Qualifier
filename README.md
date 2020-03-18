@@ -14,7 +14,7 @@ This Respository will be used to host divers write up and scrit for some of the 
 - [tea](forensic/tea.md)
 - [polyglot.doc](forensic/polyglot.doc.md)
 - [string.exe](forensic/string.exe.md)
-- [zippy zip zip](forensic/zippy%20zip%20zip.md)
+- [zippy zip zip](forensic/zippy%20zippy%20zip.md)
 - [Roll the dice](forensic/roll%20the%20dice.md)
 
 ## web
